@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-end Web Developer
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me *email : deprasmahaputra@gmail.com
-                      *ig   : depras_ngoding
+                      *ig   : deprascodes
 
 <!---
 deprasmahaputra/devpras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
